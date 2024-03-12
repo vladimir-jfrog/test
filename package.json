@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vladimir-jfrog/test/issues"
   },
-  "homepage": "https://github.com/vladimir-jfrog/test#readme"
+  "homepage": "https://github.com/vladimir-jfrog/test#readme",
+"publishConfig": {
+  "@vladimir-jfrog:registry": "https://npm.pkg.github.com"
+}
 }
